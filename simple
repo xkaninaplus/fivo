@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Click Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Simple Click Game</h1>
+    <p>Click the button to score points!</p>
+    <button id="clickButton">Click me!</button>
+    <p>Score: <span id="score">0</span></p>
+    <footer>
+        <p>Visit <a href="https://bos.al" target="_blank">bos.al</a></p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
